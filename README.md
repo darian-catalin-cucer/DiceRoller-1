@@ -1,6 +1,6 @@
 # DiceRoller
 
-This is a simple dice-app for Android that was created as part of course [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) by Google.
+This is a simple dice app for Android that was created as part of the course [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) by Google.
 
 ## Content
 
