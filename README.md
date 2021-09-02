@@ -2,9 +2,9 @@
 
 [![current version](https://img.shields.io/badge/current_version-1.0-green)](#)
 
-This is a simple dice-app for Android that was created as part of course [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) by Google.
+This is a simple dice app for Android that was created as part of course [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) by Google.
 
-## Content
+## Table of content
 
 - [How does it work](#How-does-it-work)
 - [Screenshots](#Screenshots)
@@ -16,7 +16,7 @@ This is a simple dice-app for Android that was created as part of course [Androi
 
 ## How does it work
 
-The user start the app and clicks on the "ROLL" button, after which the two dice images change their values to random ones.
+The user starts the app and clicks on the "ROLL" button, after which the two dice images change their values to random ones.
 
 ## Screenshots
 
@@ -26,7 +26,7 @@ At the beginning:
 
 <img src="screenshots/screenshot_start.png" alt="screenshot_start" style="width:231px;height:500px;">
 
-After clicking the "ROLL" button:
+After click on the "ROLL" button:
 
 <img src="screenshots/screenshot_roll.png" alt="screenshot_roll" style="width:231px;height:500px;">   
 
@@ -44,7 +44,7 @@ After clicking the "ROLL" button:
 
 ## Development progress
 
-Development of the project began on **August 30, 2021** and was completed on **Semptember 1, 2021**.
+Development of the project began on **August 30, 2021**, and was completed on **September 1, 2021**.
 
 *Since I am developing this project mainly alone, I see no reason to use [Trello](https://trello.com/).*
 
