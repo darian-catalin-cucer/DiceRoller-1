@@ -20,7 +20,13 @@ The user start the app and clicks on the "ROLL" button, after which the two dice
 
 *All screenshots are relevant for version ...*
 
-Coming soon...
+At the beginning:
+
+<img src="screenshots/screenshot_start.png" alt="screenshot_start" style="width:231px;height:500px;">
+
+After clicking the "ROLL" button:
+
+<img src="screenshots/screenshot_roll.png" alt="screenshot_roll" style="width:231px;height:500px;">   
 
 ## Technologies
 
@@ -49,12 +55,10 @@ on [WakaTime](https://wakatime.com/@VitasSalvantes/projects/yewzbukwdl).
 
 ## How to install
 
-1. Download the [latest release version](...) (... archive with
-   ... extension)
-2. Check...
-3. Go to...
-4. Open your...
-5. ...
+1. Download the repository code as a zip archive
+2. Unpack the zip archive
+3. Open the unpacked project with Android Studio
+4. Run the project
 
 ## How to contribute
 
