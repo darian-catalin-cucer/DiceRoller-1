@@ -44,7 +44,7 @@ After click on the "ROLL" button:
 
 ## Development progress
 
-Development of the project began on **August 30, 2021**, and was completed on **September 1, 2021**.
+Development of the project began on **August 30, 2021** and was completed on **September 1, 2021**.
 
 *Since I am developing this project mainly alone, I see no reason to use [Trello](https://trello.com/).*
 
