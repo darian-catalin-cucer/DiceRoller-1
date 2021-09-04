@@ -32,7 +32,9 @@ After click on the "ROLL" button:
 
 ## Technologies
 
-- The programming language Kotlin ([AdoptOpenJDK version 11.0.10](https://adoptopenjdk.net/)) was chosen for development.
+- The programming
+  language [Kotlin](https://kotlinlang.org/) ([AdoptOpenJDK version 11.0.10](https://adoptopenjdk.net/))
+  was chosen for development.
 
 - Development was carried out in [Android Studio](https://developer.android.com/studio/).
 
