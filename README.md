@@ -1,6 +1,6 @@
 # DiceRoller
 
-[![current version](https://img.shields.io/badge/current_version-1.0-green)](#)
+[![current version](https://img.shields.io/badge/current_version-1.0-green)](#DiceRoller)
 
 This is a simple dice app for Android that was created as part of course [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) by Google.
 
@@ -55,7 +55,7 @@ Development of the project began on **August 30, 2021** and was completed on **S
 [![wakatime](https://wakatime.com/badge/github/VitasSalvantes/DiceRoller.svg)](https://wakatime.com/badge/github/VitasSalvantes/DiceRoller)
 
 See more
-on [WakaTime](https://wakatime.com/@VitasSalvantes/projects/yewzbukwdl).
+on [WakaTime](https://wakatime.com/@VitasSalvantes/projects/rqajljvzmm).
 
 ## How to install
 
