@@ -1,6 +1,6 @@
 # DiceRoller
 
-[![current version](https://img.shields.io/badge/current_version-1.0-green)](#DiceRoller)
+[![current version](https://img.shields.io/badge/current_version-1.5-green)](#DiceRoller)
 
 This is a simple dice app for Android that was created as part of course [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) by Google.
 
@@ -20,7 +20,7 @@ The user starts the app and clicks on the "ROLL" button, after which the two dic
 
 ## Screenshots
 
-*All screenshots are relevant for version 1.0*
+*All screenshots are relevant for version 1.5*
 
 At the beginning:
 
