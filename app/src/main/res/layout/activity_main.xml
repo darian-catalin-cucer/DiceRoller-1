@@ -8,35 +8,38 @@
     android:padding="16dp"
     tools:context=".MainActivity">
 
+    <Button
+        android:id="@+id/roll"
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:text="@string/roll"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/firstDiceImage"
+        app:layout_constraintVertical_bias="0.18" />
+
     <ImageView
         android:id="@+id/firstDiceImage"
         android:layout_width="160dp"
         android:layout_height="200dp"
-        android:layout_marginBottom="64dp"
+        android:layout_marginEnd="55dp"
         android:contentDescription="@string/first_dice"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/roll"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.4"
         tools:srcCompat="@drawable/dice_1" />
 
     <ImageView
         android:id="@+id/secondDiceImage"
         android:layout_width="160dp"
         android:layout_height="200dp"
+        android:layout_marginStart="55dp"
         android:contentDescription="@string/second_dice"
         app:layout_constraintBottom_toBottomOf="@id/firstDiceImage"
-        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@id/roll"
         app:layout_constraintTop_toTopOf="@id/firstDiceImage"
         app:srcCompat="@drawable/dice_2" />
-
-    <Button
-        android:id="@+id/roll"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:text="@string/roll"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/secondDiceImage" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
